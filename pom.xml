@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Coding Academi Releases Nexus Repository</name>
-	      <url>http://13.232.7.49:8081/codingacademi/repository/MKRSuperMarket-Release/</url>
+	      <url>http://35.154.15.47:8081/codingacademi/repository/MKRSuperMarket-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Coding Academi Snapshot Nexus Repository </name>
-	      <url>http://13.232.7.49:8081/codingacademi/repository/MKRSuperMarket-snapshot/</url>
+	      <url>http://35.154.15.47:8081/codingacademi/repository/MKRSuperMarket-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

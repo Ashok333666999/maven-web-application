@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to CodingAcademi Private Limited. Bengaluru,India 566066 </h1>
+<h1 align="center">Welcome to Chital Tigers, Chital, Hyderabad - 500054 </h1>
 <h1 align="center"> This is Ashok, I'm coding academi student from february 2023 and i completed my course, I searching job on AWS Devops</h1>
 <hr>
 <br>
@@ -35,10 +35,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Coding Academi, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-7022503201
-		codingacademi@gmail.com
+		Chintal, Above ICICI Bank, Beside Meghana Foods,
+		Hyderabad,
+		+91-965231796
+		ashok333666999@gmail.com
 		<br>
 		<a href="mailto:codingacademi@gmail.com">Mail to CodingAcademi</a>
 	</span>

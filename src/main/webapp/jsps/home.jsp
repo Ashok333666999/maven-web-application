@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Chintal Tigers, Chintal, Chandra Nagar, Hyderabad-500054 </h1>
-<h1 align="center"> This is Ashok, I'm coding academi student from february 2023 and i completed my course, I searching job on AWS Devops</h1>
+<h1 align="center"> This is Ashok, I'm coding academi student from february 2023 and i completed my course, I'm searching job on AWS Devops</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
